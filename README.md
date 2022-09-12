@@ -1,2 +1,2 @@
-# myntra-clone.github.io using bootstrap
-#open here(https://98anjana.github.io/myntra-clone.github.io/)
+* Myntra-clone  using bootstrap
+* Click Here .... (https://98anjana.github.io/myntra-clone.github.io/)
